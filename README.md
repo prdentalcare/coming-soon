@@ -1,5 +1,5 @@
 # PR's Dental Care
 
 ``` 
-The website is under construction.
+This repository is to indicate that the website is under construction and coming soon.
 ``` 
