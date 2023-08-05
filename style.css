@@ -196,3 +196,9 @@ svg{
         
      
     }
+
+    
+.logo-responsive {
+    width: 65%;
+    height: auto;
+}
